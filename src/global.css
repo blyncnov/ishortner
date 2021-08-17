@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  background-color: white;
+  font-family: "Montserrat", monospace;
+  /* color: ; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.footerow {
+  text-align: center;
+  padding: 1em 0.5em;
+}
+
+.golinkox {
+  width: 100%;
+  background-color: white;
+  padding: 2em 1em;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
