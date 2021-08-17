@@ -24,7 +24,7 @@ const Golink = () => {
 
     return (
         <div>
-            <h1>{url}</h1>
+
         </div>
     )
 }
